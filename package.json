@@ -1,0 +1,23 @@
+{
+  "name": "mycli-app",
+  "version": "1.0.0",
+  "main": "mycli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaseerNasii/NaseerNasii.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin":{
+    "rockstar":"mycli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/NaseerNasii/NaseerNasii/issues"
+  },
+  "homepage": "https://github.com/NaseerNasii/NaseerNasii#readme",
+  "keywords": [],
+  "description": ""
+}

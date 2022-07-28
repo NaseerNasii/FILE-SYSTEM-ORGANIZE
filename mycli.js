@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 let helpFn=require("./commands/help");
 let organizeFn=require("./commands/organize");
 let viewFn=require("./commands/view");
