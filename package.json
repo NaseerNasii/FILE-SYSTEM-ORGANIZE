@@ -1,6 +1,7 @@
 {
-  "name": "mycli-app",
+  "name": "1_activity",
   "version": "1.0.0",
+  "description": "",
   "main": "mycli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,15 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/NaseerNasii/NaseerNasii.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bin":{
-    "rockstar":"mycli.js"
+    "obey":"mycli.js"
   },
   "bugs": {
     "url": "https://github.com/NaseerNasii/NaseerNasii/issues"
   },
-  "homepage": "https://github.com/NaseerNasii/NaseerNasii#readme",
-  "keywords": [],
-  "description": ""
+  "homepage": "https://github.com/NaseerNasii/NaseerNasii#readme"
 }
